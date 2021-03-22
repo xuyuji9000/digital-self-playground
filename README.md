@@ -2,6 +2,10 @@
 
 This repo  is used to document learning about how to gain more control over digital self.
 
+- [wechat](./wechat.md)
+
+    > This file describes the export and analysis of wechat data.
+
 
 
 # Reference
