@@ -2,7 +2,7 @@ This document describes the export and analysis of wechat data.
 
 Steps:
 
-1. Backup the IOS machine and export wechat data from there[1].
+1. Backup the IOS machine and export wechat data from there[1][2].
 
 
 
@@ -10,3 +10,5 @@ Steps:
 # Reference
 
 1. [微信聊天记录导出](http://wxbackup.imxfd.com/)
+
+2. [微信聊天记录导出--发布](https://zhuanlan.zhihu.com/p/32511173)
